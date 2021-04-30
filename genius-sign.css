@@ -2,7 +2,8 @@
 
 /* https://docs.helpscout.net/article/79-retina-logo */
 #mainNav .brand span {
-  background-image: url(https://d2so04m9368s9h.cloudfront.net/support/helpscout-docs-genius-sign-logo.png);
+  background: url(https://d2so04m9368s9h.cloudfront.net/support/helpscout-docs-genius-sign-logo.png) no-repeat 0 0;
+  background-size: 100%;
 }
 
 #mainNav .brand::after {
