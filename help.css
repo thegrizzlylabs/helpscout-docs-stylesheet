@@ -87,6 +87,10 @@ body.embedded {
   content: "Genius Scan";
 }
 
+.navbar .brand {
+  padding-top: 9px;
+}
+
 @media screen and (max-width: 768px) {
   .navbar .btn-navbar {
     margin-top: 32px;
